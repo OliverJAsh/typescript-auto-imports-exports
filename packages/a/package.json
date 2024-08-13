@@ -1,0 +1,7 @@
+{
+  "name": "a",
+  "private": true,
+  "exports": {
+    "./test": "./module.ts"
+  }
+}
